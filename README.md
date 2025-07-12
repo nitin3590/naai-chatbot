@@ -49,6 +49,3 @@ NAAI is your personal AI assistant chatbot, powered by Google Gemini API (backen
 ## Notes
 - The backend is configured for local development (`localhost`). For production, update the URLs as needed.
 - Never share your API key or commit `.env` files.
-
-## License
-MIT 
