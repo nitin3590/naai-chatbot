@@ -54,7 +54,7 @@ function App() {
   return (
     <div className="chatbot-bg">
       <div className="chatbot-container">
-        <h1 className="chatbot-title">NAAI Chatbot</h1>
+        <h1 className="chatbot-title">NAAI</h1>
         <div className="chat-window">
           {messages.map((msg, idx) => (
             <ChatBubble key={idx} text={msg.text} isUser={msg.isUser} />
